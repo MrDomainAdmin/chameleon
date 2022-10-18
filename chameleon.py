@@ -656,6 +656,7 @@ class Chameleon:
             "$false": self.random_variable(),
             "$args": self.random_variable(),
             "$script": self.random_variable(),
+            "$error": self.random_variable(),
             "$_": self.random_variable()
         }
 

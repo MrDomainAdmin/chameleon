@@ -1,4 +1,4 @@
-:triangular_flag_on_post: This is the public repository of chameleon, for latest version and updates please consider supporting the original creators through https://porchetta.industries/
+:triangular_flag_on_post: This [https://github.com/klezVirus/chameleon] is the repository that we copied for this version of chameleon, for latest version and updates please consider supporting the original creators through https://porchetta.industries/
 
 # Chameleon
 
